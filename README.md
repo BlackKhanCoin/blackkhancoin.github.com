@@ -77,9 +77,11 @@
   </header>
 
   <div class="hero">
-    <h2>The Legend Has Returned</h2>
-    <p>The Black Khan is not just a memecoin — it's a movement. Join the army of the digital steppe and ride with us to the moon!</p>
-  </div>
+  <img src="https://i.redd.it/request-the-black-khan-of-mongolia-ishowspeed-v0-cmbhal114uue1.jpg?width=1024&format=pjpg&auto=webp&s=6108b3106aa023fdcf59855c45eb1dcbdc96e6b1" alt="The Black Khan Logo" style="max-width: 200px; margin-bottom: 20px;">
+  <h2>The Legend Has Returned</h2>
+  <p>The Black Khan is not just a memecoin — it's a movement. Join the army of the digital steppe and ride with us to the moon!</p>
+</div>
+
 
   <section id="about">
     <h3>About the Black Khan</h3>
